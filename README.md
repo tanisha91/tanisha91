@@ -4,7 +4,7 @@
 
 <h1 align="center"> I'm Tanisha Mangla</h1>
 <h3 align="center">I am learning Android Development in Kotlin from India</h3>
-<img align="right" alt="coding" width="400" src="enor.com/view/programming-gif-25868426"
+
      
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha91&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha91" /> </p>
