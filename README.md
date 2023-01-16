@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tanisha91/tanisha91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tanisha Mangla</h1>
 <h3 align="center">I am learning Android Development in Kotlin from India</h3>
