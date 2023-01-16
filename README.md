@@ -2,12 +2,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tanisha Mangla</h1>
+<h1 align="center"> I'm Tanisha Mangla</h1>
 <h3 align="center">I am learning Android Development in Kotlin from India</h3>
 <img align="right" alt="coding" width="400" src="enor.com/view/programming-gif-25868426"
+     
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha91&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha91" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisha91" alt="tanisha91" /></a> </p>
+
 
 - 🌱 I’m currently learning **DSA in C ,Java and Android development**
 
@@ -15,7 +17,6 @@
 
 - 📫 How to reach me **tanishamangla91@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/admin/Downloads/Deedy_CV__2_.pdf](file:///C:/Users/admin/Downloads/Deedy_CV__2_.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
