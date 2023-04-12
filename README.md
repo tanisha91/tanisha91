@@ -13,14 +13,15 @@
 
 - 🌱 I’m currently learning **DSA in C ,Java and Android development**
 
+- 📫 How to reach me **tanishamangla91@gmail.com**
+
 - 📝 I generally write articles on Hasnode
 
-- 📫 How to reach me **tanishamangla91@gmail.com**
+- Check it out from here <a href="https://hashnode.com/@tanisha672" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@tanisha672" height="30" width="30" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://hashnode.com/@tanisha672" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@tanisha672" height="30" width="40" /></a>
      
 <a href="https://twitter.com/@mangla_tanisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mangla_tanisha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanisha mangla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha mangla" height="30" width="40" /></a>
